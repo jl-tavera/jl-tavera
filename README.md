@@ -8,4 +8,3 @@ Economics graduate with studies in Math and Law from Universidad de los Andes;<b
 - 💻 Languages: `Python`, `JavaScript`, `TypeScript`, `Flutter`, `R`
 - 🚀 Frameworks & Libraries: `TensorFlow`, `Scikit-learn`, `LangGraph`, `FastAPI`, `Next.js`
 - 🔧 Tools: `Docker`, `PostgreSQL`, `Git`, `CI/CD`
-- 💬 `ping` me about any doubt you have
