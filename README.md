@@ -19,31 +19,14 @@ I build with `Claude Code`. My skills, hooks and rules live in [dotagents](https
 
 ### What I build
 
-**LLM applications** — agents, RAG, LLM-as-a-judge evals<br>
-`LangGraph` `LangChain` `pgvector`
-
-**Recommender systems** — two-tower retrieval, implicit ALS<br>
-`TensorFlow Recommenders` `TensorFlow` `Snowflake`
-
-**Forecasting** — ARIMA/SARIMA, Holt-Winters, RNNs<br>
-`statsmodels` `Prophet` `TensorFlow` `Databricks`
-
-**Causal inference** — Double ML, panel data<br>
-`econml` `statsmodels` `R` `Stata`
-
-**Segmentation** — K-Prototypes, DBSCAN/HDBSCAN<br>
-`scikit-learn` `kmodes`
-
-**Data pipelines and scraping**<br>
-`PySpark` `SQL` `Databricks` `Playwright` `Selenium` `Scrapy` `BeautifulSoup`
-
-**Backend**<br>
-`Python` `FastAPI` `Django` `PostgreSQL` `Supabase`
-
-**Frontend**<br>
-`TypeScript` `Next.js` `React`
-
-**Cloud and deploy**<br>
-`GCP Cloud Run` `BigQuery` `Azure ML` `Docker` `Railway` `Vercel`
+**LLM applications:** `Agents` `RAG` `LLM-as-a-judge` `LangGraph` `LangChain` `pgvector`<br>
+**Recommender systems:** `Two-tower retrieval` `Implicit ALS` `TensorFlow Recommenders` `Snowflake`<br>
+**Forecasting:** `ARIMA / SARIMA` `Holt-Winters` `RNNs` `statsmodels` `Prophet` `TensorFlow` `Databricks`<br>
+**Causal inference:** `Double ML` `Panel data` `econml` `statsmodels` `R` `Stata`<br>
+**Segmentation:** `K-Prototypes` `DBSCAN / HDBSCAN` `scikit-learn` `kmodes`<br>
+**Data pipelines and scraping:** `PySpark` `SQL` `Databricks` `Playwright` `Selenium` `Scrapy` `BeautifulSoup`<br>
+**Backend:** `Python` `FastAPI` `Django` `PostgreSQL` `Supabase`<br>
+**Frontend:** `TypeScript` `Next.js` `React`<br>
+**Cloud and deploy:** `GCP Cloud Run` `BigQuery` `Azure ML` `Docker` `Railway` `Vercel`
 
 Full index with code samples → [josetavera.site](https://www.josetavera.site/)
