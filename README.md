@@ -2,7 +2,7 @@
 
 ML and AI engineer who builds products end to end.
 
-[![Website](https://img.shields.io/badge/Website-josetavera.site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.josetavera.site/)
+<a href="https://www.josetavera.site/"><img src="assets/site.svg" alt="josetavera.site" width="440"></a>
 
 **Lead Product Engineer at [Alero](https://joinalero.ai/)**, building AI agents that run the back office for US home care agencies. Highlights: an LLM-as-a-judge compliance tool that automates Medicare billing audits, and integrations built by reverse-engineering undocumented EHR APIs.
 
@@ -12,10 +12,37 @@ ML and AI engineer who builds products end to end.
 
 Economics at Universidad de los Andes · Five-time national science olympiad finalist · Based in Colombia 🇨🇴
 
-### 🛠️ Toolkit
+### How I work with agents
 
-- 🤖 LLM apps and agents: `LangChain`, `LangGraph`, LLM-as-a-judge evals
-- 📈 Forecasting: `ARIMA`, `Prophet`, RNNs in `TensorFlow`
-- 🎯 Recommenders, clustering and segmentation with `Scikit-learn`
-- 🗄️ Data: `Python`, `PySpark`
-- 🚀 Production: `Next.js`, `FastAPI`, `Django`, `PostgreSQL`, `Docker`, `AWS`, `GCP`
+I build with `Claude Code`. My skills, hooks and rules live in [dotagents](https://github.com/jl-tavera/dotagents), linked into every harness I use: one job per context window, handoffs as GitHub issues instead of chat memory, and hooks that make sure every ship or merge waits for me.
+
+### What I build
+
+**LLM applications** — agents, RAG, LLM-as-a-judge evals<br>
+`LangGraph` `LangChain` `pgvector`
+
+**Recommender systems** — two-tower retrieval, implicit ALS<br>
+`TensorFlow Recommenders` `TensorFlow` `Snowflake`
+
+**Forecasting** — ARIMA/SARIMA, Holt-Winters, RNNs<br>
+`statsmodels` `Prophet` `TensorFlow` `Databricks`
+
+**Causal inference** — Double ML, panel data<br>
+`econml` `statsmodels` `R` `Stata`
+
+**Segmentation** — K-Prototypes, DBSCAN/HDBSCAN<br>
+`scikit-learn` `kmodes`
+
+**Data pipelines and scraping**<br>
+`PySpark` `SQL` `Databricks` `Playwright` `Selenium` `Scrapy` `BeautifulSoup`
+
+**Backend**<br>
+`Python` `FastAPI` `Django` `PostgreSQL` `Supabase`
+
+**Frontend**<br>
+`TypeScript` `Next.js` `React`
+
+**Cloud and deploy**<br>
+`GCP Cloud Run` `BigQuery` `Azure ML` `Docker` `Railway` `Vercel`
+
+Full index with code samples → [josetavera.site](https://www.josetavera.site/)
