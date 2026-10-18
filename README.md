@@ -1,8 +1,4 @@
-# 👋 Hola, soy Jose
-
-ML and AI engineer who builds products end to end.
-
-<a href="https://www.josetavera.site/"><img src="assets/site.svg" alt="josetavera.site" width="440"></a>
+<a href="https://www.josetavera.site/"><img src="assets/header.svg" alt="Jose Tavera — ML &amp; AI engineer building products end to end" width="100%"></a>
 
 **Lead Product Engineer at [Alero](https://joinalero.ai/)**, building AI agents that run the back office for US home care agencies. Highlights: an LLM-as-a-judge compliance tool that automates Medicare billing audits, and integrations built by reverse-engineering undocumented EHR APIs.
 
