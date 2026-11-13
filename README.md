@@ -5,7 +5,7 @@
   </picture>
 </a>
 
-**Lead Product Engineer at [Alero](https://joinalero.ai/)**, building AI agents that run the back office for US home care agencies. Highlights: an LLM-as-a-judge compliance tool that automates Medicare billing audits, and integrations built by reverse-engineering undocumented EHR APIs.
+**Lead Product Engineer at [Alero](https://joinalero.ai/)**, building AI agents that run the back office for US home care agencies. Highlights: an LLM-as-a-judge compliance tool that automates Medicare billing audits, and integrations built by reverse-engineering undocumented EHR APIs with a custom MCP.
 
 **At [Quantil](https://quantil.co/en/)** I ship LLM apps and ML for enterprise clients across the US and LatAm, from RNN forecasting and causal models for a major oil & gas company to recommendation and segmentation systems. On the side I build independent AI products, including a winning WhatsApp agent at Colombia Tech Week's AI Hackathon.
 
